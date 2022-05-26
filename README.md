@@ -11,6 +11,9 @@ Objetivo 2, predição: construir um modelo com alto poder preditivo, com mais v
 
 
 Maiores dificuldades encontradas: 
+
 -> Trabalhar com um dataset que apresenta muitas variáveis (+80)
+
 -> Trabalhar com um dataset sem dividir treino/teste e fitar a regressão linear assim mesmo
+
 -> Fazer o feature selection de acordo com as visualizações e não utilizando alguma métrica específica para isso
